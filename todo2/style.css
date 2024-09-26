@@ -1,0 +1,6 @@
+li{
+    user-select: none;
+}
+.completed{
+    text-decoration: line-through;
+}
