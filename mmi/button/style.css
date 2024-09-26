@@ -1,0 +1,13 @@
+body {
+    display:flex;
+}
+.btn {
+    border-width: 5px;
+    border-style: solid;
+    margin:auto;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding:25px;
+    display:flex;
+    justify-content: center;
+}
